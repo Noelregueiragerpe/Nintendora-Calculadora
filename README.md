@@ -68,11 +68,3 @@ Estas dependencias permiten usar componentes modernos como `ConstraintLayout` y 
 ## Contribución
 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio, realizar tus cambios y enviar un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo LICENSE para más detalles.
-
----
-
-Este README proporciona una descripción clara de la aplicación, cómo configurarla y cómo interactuar con ella. ¡Si tienes algún cambio o detalle adicional que te gustaría incluir, no dudes en modificarlo!
