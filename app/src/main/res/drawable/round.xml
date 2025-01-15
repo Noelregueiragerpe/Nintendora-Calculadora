@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Color de fondo del texto -->
+    <stroke
+        android:width="6dp"
+        android:color="#CEF80000" /> <!-- Color y grosor del borde -->
+    <corners android:radius="30dp" /> <!-- Bordes redondeados -->
+    <padding
+        android:left="12dp"
+        android:top="8dp"
+        android:right="10dp"
+        android:bottom="8dp" /> <!-- Espaciado interno -->
+</shape>
