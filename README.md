@@ -10,6 +10,7 @@ Este es un proyecto de una calculadora simple en Android. Permite realizar opera
 - **Operación básica**: Actualmente, la calculadora solo soporta la operación de **suma**.
 - **Borrar valores**: Opción para borrar los valores ingresados en los campos de texto.
 - **Resaltado de campos**: Al hacer clic en un campo de texto (EditText), este se resalta, facilitando la interacción con el usuario.
+![image](https://github.com/user-attachments/assets/4813b0ba-7474-4c40-8ccd-afb18dd40c94)
 
 ## Requisitos
 
